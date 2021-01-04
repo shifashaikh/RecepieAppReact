@@ -4,8 +4,8 @@ import"./App.css"
 const App=()=>{
 
   
-const APP_ID="74d9b7e3";
-const APP_KEY="1da5130d83a401e85f711e5f95ded859";
+const APP_ID="";
+const APP_KEY="";
 
 const [counter,setCounter]= useState(0);
 const [recipies,setrecipies]=useState([]);
